@@ -7,6 +7,7 @@ namespace _01.ConsoleApp.NetCore
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.ReadKey();
         }
     }
 }
